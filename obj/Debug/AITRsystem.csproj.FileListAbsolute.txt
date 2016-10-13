@@ -1,0 +1,5 @@
+C:\Users\jack\Desktop\Datadriven\AITRsystem\AITRsystem\bin\AITRsystem.dll
+C:\Users\jack\Desktop\Datadriven\AITRsystem\AITRsystem\bin\AITRsystem.pdb
+C:\Users\jack\Desktop\Datadriven\AITRsystem\AITRsystem\obj\Debug\AITRsystem.dll
+C:\Users\jack\Desktop\Datadriven\AITRsystem\AITRsystem\obj\Debug\AITRsystem.pdb
+C:\Users\jack\Desktop\Datadriven\AITRsystem\AITRsystem\obj\Debug\AITRsystem.csprojResolveAssemblyReference.cache
